@@ -1,4 +1,7 @@
 ## 该项目目前处于无人维护的状态，突然想起来，那就留个念想吧，来日再战。
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/67fb8d8f4fdf41e3a0cc9c4f0f0c61b4)](https://www.codacy.com/app/nthazwy/Liudao?utm_source=github.com&utm_medium=referral&utm_content=ysrc/Liudao&utm_campaign=badger)
+
 ## 招风控负责人 sec@ly.com
 
 # 六道 —— 实时业务风控系统
